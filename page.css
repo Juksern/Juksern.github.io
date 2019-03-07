@@ -1,13 +1,13 @@
 a:link, a:visited {
-  color: #d2d2d3;
-  background-color: transparent;
-  text-decoration: none;
+	color: #d2d2d3;
+	background-color: transparent;
+	text-decoration: none;
 }
 
 a:hover {
-  color: #ffffff;
-  background-color: transparent;
-  text-decoration: none;
+	color: #ffffff;
+	background-color: transparent;
+	text-decoration: none;
 }
 
 body {
